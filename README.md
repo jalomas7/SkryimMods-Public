@@ -1,6 +1,5 @@
 # SkyrimMods
-
-This repo is a mirror of the skyrim mods private repository used in for study of how mods are used in skyrim. It is here for viewing purposes only and is not complete. 
+Final Project Repository for study of Mods for Skyrim
 
 The json files containing the information on mods from Nexus.com follow the form {mod_id : [mod_url,likes, downloads, name, description, release_date, update_date, creator, unique_downloads, pageviews]}
 
@@ -19,3 +18,4 @@ the json files related to the tags follow one of the following forms:
     
   second file - untitled.ipynb Tag scraping -- Rename this <br />
     loads all of the tag pages and creates a dictionary of tag names keyed to mod ids prints the dictionary to a json file. <br />
+  
